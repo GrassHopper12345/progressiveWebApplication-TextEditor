@@ -42,3 +42,6 @@ registerRoute(
     ],
   })
 );
+
+//Add offline fallback
+offlineFallback();
