@@ -29,7 +29,7 @@ module.exports = () => {
         template: './index.html',
         title: ['JATE'],
       }),
-      new InjectedManifest({
+      new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'src-sw.js',
       }),
@@ -65,7 +65,7 @@ module.exports = () => {
             loader: 'babel-loader',
             options: {
               presets: ['@babel/preset-env'],
-              plugins: ['@babel/plugin--proposal-object-rest-spread', '@babel/transform-runtime'],
+              plugins: ['@babel/plugin-proposal-object-rest-spread', '@babel/transform-runtime'],
             },
           },
         },
