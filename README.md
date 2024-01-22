@@ -1,6 +1,6 @@
 # progressiveWebApplication-TextEditor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/)
 
 ## Description
 
