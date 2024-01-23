@@ -3,16 +3,26 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/progressiveWebApplication-TextEditor/blob/main/LICENSE)
 
 ## Description
+This application is a web based web application where a user can create code snippets or notes with or without a connection to the internet. A user can retrieve saved notes and code snippets once connected to the internet. Using the integrated service worker interface and Cache API's, the application will remain functional offline. This application will allow a user to interact with the application while remaining offline.
+
+
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Questioons](#questioons)
+- [URL Link](#url_link)
+- [Repository](#repository)
+- [Questions](#questions)
 
 
 ## Installation
+- This application will require multiple npm dependency packages.
 
+- This application will require the following npm packages:
+* npm install express.js
+* npm install webpack-dev-server --save-dev
+* npm install
 
 ## Usage
 
@@ -40,6 +50,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 MIT License
+
+## [URL Link](https://p-w-a-text-editor-098506ebcbf2.herokuapp.com/)
+
+## [Repository](https://github.com/GrassHopper12345/progressiveWebApplication-TextEditor)
 
 ## Questions
 If you have an questions please email me at: [brian.hopper@live.com](brian.hopper@live.com).
