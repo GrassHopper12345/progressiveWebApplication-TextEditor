@@ -74,7 +74,8 @@ THEN I should have proper build scripts for a webpack application
 Below is the install installed PWA:
 ![Alt text](<Screenshot 2024-01-23 at 11.35.29 AM.png>)
 
-6. 
+6. The application with added code prior to closing application, then re-opening the application to see the same code still available.
+![Alt text](<Screenshot 2024-01-24 at 5.14.08 PM.png>)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/progressiveWebApplication-TextEditor/blob/main/LICENSE)
